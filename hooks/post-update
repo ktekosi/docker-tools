@@ -1,0 +1,5 @@
+#!/bin/bash
+
+echo "Updating docker-tools..."
+./update.sh
+echo "docker-tools updated"
